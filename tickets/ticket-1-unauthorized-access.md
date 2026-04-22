@@ -1,6 +1,4 @@
-:::writing{variant=“standard” id=“52910”}
-
-🎫 Ticket 1: Unauthorized Access to HR Folder
+Ticket 1: Unauthorized Access to HR Folder
 
 Issue
 
@@ -32,4 +30,4 @@ Resolution
 
 User john.doe now receives an Access Denied error when attempting to access the HR folder.
 (Screenshots stored in /screenshots)
-:::
+
