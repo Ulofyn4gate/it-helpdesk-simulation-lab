@@ -1,5 +1,3 @@
-:::writing{variant=“standard” id=“84321”}
-
 IT Helpdesk Simulation Lab
 
 Overview
