@@ -1,1 +1,26 @@
+# Ticket 3: Account Disabled – User Unable to Log In
 
+## Issue
+User `jane.smith` was unable to log in despite using the correct password.
+
+---
+
+## Investigation
+- Verified password was correct
+- Checked account status using: net user jane.smith
+
+- Found account was disabled
+
+---
+
+## Resolution
+1. Enabled the account using: net user jane.smith /active:yes
+---
+
+## Result
+User successfully logged in after account was re-enabled.
+
+---
+
+## Evidence
+(Screenshots stored in `/screenshots`)
